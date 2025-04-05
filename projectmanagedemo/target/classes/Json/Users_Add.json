@@ -1,0 +1,21 @@
+{
+  "username": "shreyanka_admin",
+  "email": "shreya@gmail.com",
+  "password": "shreya_admin",
+
+  "projects": [
+    {
+      "id": 3,
+      "projectName": "Web based app development"
+    }
+  ]
+}
+
+
+
+
+///explicilty add
+{
+  "roleName": "ROLE_admin"
+}
+

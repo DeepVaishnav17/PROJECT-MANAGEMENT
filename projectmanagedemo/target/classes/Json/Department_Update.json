@@ -1,0 +1,29 @@
+{
+  "id":4,
+  "name": "Maths",
+  "users":[
+    {
+      "username": "deep_v",
+      "email": "deep@example.com",
+      "password": "123456",
+      "department": {
+        "id": 1,
+        "name": "Engineering"
+      },
+      "projects": [
+        {
+          "id": 1,
+          "projectName": "My First Project"
+        }
+      ],
+      "roles": [
+        {
+          "id": 1,
+          "roleName": "Developer"
+        }
+      ]
+    }
+
+  ]
+
+}

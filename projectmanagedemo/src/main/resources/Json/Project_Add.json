@@ -1,0 +1,12 @@
+{
+  "projectName": "Dev Jnakins",
+  "users": [
+    {
+      "id": 4,
+      "username": "deep_v",
+      "email": "deep@example.com",
+      "password": "123456",
+      "roles": []
+    }
+  ]
+}
